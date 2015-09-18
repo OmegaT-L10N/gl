@@ -23185,6 +23185,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="GL" changeid="ana" changedate="20150918T225410Z" creationid="ana" creationdate="20150918T225410Z">
+        <seg>Buscar e substituír...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for segments containing all keywords you specified, in any order.</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130401T162355Z">
