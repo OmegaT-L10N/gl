@@ -3350,8 +3350,8 @@ A configuración actual ten {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file.</seg>
       </tuv>
-      <tuv lang="GL" changeid="erithrym" changedate="20130310T210149Z">
-        <seg>&lt;e0&gt;Memorias de tradución:&lt;/e0&gt;&lt;a1&gt; &lt;/a1&gt;OmegaT almacena as súas traducións nun ficheiro de memoria de tradución.</seg>
+      <tuv lang="GL" changeid="Isaac Álvarez Veiga" changedate="20150919T130030Z">
+        <seg>&lt;e0&gt;Memorias de tradución:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; almacena as traducións nun ficheiro de memoria de tradución.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8024,8 +8024,8 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       <tuv lang="EN">
         <seg>At the same time, it can use memories files from previous translations for reference.</seg>
       </tuv>
-      <tuv lang="GL" changeid="erithrym" changedate="20130310T210202Z">
-        <seg>Ao mesmo tempo, pode empregar ficheiros de memoria de traducións xa feitas para tomar como referencia.</seg>
+      <tuv lang="GL" changeid="Isaac Álvarez Veiga" changedate="20150919T130046Z">
+        <seg>Ao mesmo tempo, pode empregar ficheiros de memoria de traducións xa feitas para usar como referencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14902,8 +14902,8 @@ instale unha versión de OmegaT con JRE incluído.</seg>
       <tuv lang="EN">
         <seg>If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
       </tuv>
-      <tuv lang="GL" changeid="erithrym" changedate="20130309T161958Z">
-        <seg>Se xa lle proveron dalgunha memoria de tradución xa creada, por exemplo, pola súa axencia de tradución ou o seu cliente, OmegaT pode facer uso de esta coma unha memoria de referencia.</seg>
+      <tuv lang="GL" changeid="Isaac Álvarez Veiga" changedate="20150919T130254Z">
+        <seg>Se xa lle forneceron algunha memoria de tradución xa creada, por exemplo, pola súa axencia de tradución ou o seu cliente, OmegaT pode usala como unha memoria de referencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18446,8 +18446,8 @@ unha rede de computadores, sen transferir copia algunha, non se considera «dist
       <tuv lang="EN">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
-      <tuv lang="GL" changeid="erithrym" changedate="20130309T161843Z">
-        <seg>Así, é máis fácil encargarse das modificacións do documento orixinal.</seg>
+      <tuv lang="GL" changeid="Isaac Álvarez Veiga" changedate="20150919T130219Z">
+        <seg>Así, é máis sinxelo encargarse das modificacións do documento orixinal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20119,8 +20119,8 @@ seleccionalos, obtelos e instalalos.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses translation memories to store your previous translations and then suggest likely translations for the text you are currently working on.</seg>
       </tuv>
-      <tuv lang="GL" changeid="erithrym" changedate="20130310T215013Z">
-        <seg>OmegaT emprega as memorias de tradución para almacenar as súas traducións previas e suxerirlle despois posíbeis traducións para o texto no que estea traballando nese momento.</seg>
+      <tuv lang="GL" changeid="Isaac Álvarez Veiga" changedate="20150919T130118Z">
+        <seg>OmegaT usa as memorias de tradución para almacenar as traducións previas e suxerirlle despois posíbeis traducións para o texto no que estea traballando nese momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30809,8 +30809,8 @@ instalar Kaptain.</seg>
       <tuv lang="EN">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
       </tuv>
-      <tuv lang="GL" changeid="erithrym" changedate="20130419T190840Z">
-        <seg>As frases que non foran modificadas serán traducidas automaticamente, mentres que as frases actualizadas amosaranse coa tradución da frase do documento anterior máis parecida.</seg>
+      <tuv lang="GL" changeid="Isaac Álvarez Veiga" changedate="20150919T130202Z">
+        <seg>As frases que non fosen modificadas traduciranse automaticamente, mentres que as frases actualizadas amosaranse coa tradución da frase do documento anterior máis semellante.</seg>
       </tuv>
     </tu>
     <tu>
