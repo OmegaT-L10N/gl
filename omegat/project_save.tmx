@@ -3124,6 +3124,14 @@ A configuración actual ten {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Learn to use OmegaT in 5 minutes!:&lt;/e0&gt; this chapter is intended as a quick tutorial for beginners as well as people who already know CAT tools, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Isaac Álvarez Veiga" changedate="20150919T131338Z" creationid="Isaac Álvarez Veiga" creationdate="20150919T131338Z">
+        <seg>&lt;e0&gt;Aprender a usar OmegaT en 5 minutos:&lt;/e0&gt; o obxectivo deste capítulo é ser un titorial rápido para novatos e para persoas que xa coñecen outras ferramentas de tradución asistida. Para isto, describe o procedemento completo, desde a apertura dun novo proxecto de tradución ata completar a tradución.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130309T162444Z">
@@ -12588,8 +12596,8 @@ mostrado.</seg>
       <tuv lang="EN">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
-      <tuv lang="GL" changeid="erithrym" changedate="20130312T182219Z">
-        <seg>Para usuarios avanzados, o capítulo describe o modo da liña de ordes e as súas posibilidades.</seg>
+      <tuv lang="GL" changeid="Isaac Álvarez Veiga" changedate="20150919T131421Z">
+        <seg>Para usuarios avanzados, o capítulo describe o modo da liña de comandos e as súas posibilidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16479,8 +16487,8 @@ Simplemente iniciar o programa de instalación.</seg>
       <tuv lang="EN">
         <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
       </tuv>
-      <tuv lang="GL" changeid="erithrym" changedate="20130309T162129Z">
-        <seg>Contén instrucións específicas sobre como instalar OmegaT e de como executalo en Windows, Mac Os X e Linux.</seg>
+      <tuv lang="GL" changeid="Isaac Álvarez Veiga" changedate="20150919T131402Z">
+        <seg>Contén instrucións específicas sobre como instalar OmegaT e sobre como executalo en Windows, Mac Os X e Linux.</seg>
       </tuv>
     </tu>
     <tu>
