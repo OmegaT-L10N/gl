@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10088M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39891,6 +39891,14 @@ crear o seu cartafol de configuración.</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130401T145630Z">
         <seg>{0} cargado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Kos Ivantsov" changedate="20170906T154210Z" creationid="Kos Ivantsov" creationdate="20170906T154210Z">
+        <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
     <tu>
