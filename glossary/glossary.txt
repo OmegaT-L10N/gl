@@ -1,1 +1,2 @@
 for details	para máis detalles
+Java .properties file	ficheiro .properties de Java
