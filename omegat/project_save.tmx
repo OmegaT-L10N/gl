@@ -320,6 +320,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163536Z" creationid="Manuel" creationdate="20170911T163536Z">
+        <seg>&amp;Acceder os contidos do proxecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="GL">
@@ -472,6 +480,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Current Source Document</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163632Z" creationid="Manuel" creationdate="20170911T163625Z">
+        <seg>Do&amp;cumento de partida actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="GL">
@@ -484,6 +500,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130310T214521Z">
         <seg>Pre&amp;determinados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163544Z" creationid="Manuel" creationdate="20170911T163544Z">
+        <seg>&amp;Dicionarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -620,6 +644,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="GL">
         <seg>Ir cara a adiante no &amp;historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163553Z" creationid="Manuel" creationdate="20170911T163553Z">
+        <seg>&amp;Glosarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -984,6 +1016,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163539Z" creationid="Manuel" creationdate="20170911T163539Z">
+        <seg>&amp;Raíz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Run</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130323T204204Z">
@@ -1080,6 +1120,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163607Z" creationid="Manuel" creationdate="20170911T163607Z">
+        <seg>&amp;Ficheiros de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Source Files Language:</seg>
       </tuv>
       <tuv lang="GL">
@@ -1100,6 +1148,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="GL" changeid="kike" changedate="20100206T111823Z">
         <seg>E&amp;statísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163613Z" creationid="Manuel" creationdate="20170911T163613Z">
+        <seg>&amp;Ficheiros de chegada</seg>
       </tuv>
     </tu>
     <tu>
@@ -1172,6 +1228,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="GL">
         <seg>&amp;Ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163703Z" creationid="Manuel" creationdate="20170911T163703Z">
+        <seg>Glosario &amp;editable</seg>
       </tuv>
     </tu>
     <tu>
@@ -8772,6 +8836,14 @@ libre para todos os usuarios.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163646Z" creationid="Manuel" creationdate="20170911T163646Z">
+        <seg>Doc&amp;umento de chegada actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Camtasia for Windows (*.camproj)</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130402T160357Z">
@@ -9374,6 +9446,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163326Z" creationid="Manuel" creationdate="20170911T163326Z">
+        <seg>Remitir ficheiros de orixe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130408T150154Z">
@@ -9799,8 +9879,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create &amp;Translated Documents</seg>
       </tuv>
-      <tuv lang="GL">
-        <seg>Crear documentos &amp;traducidos</seg>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163503Z">
+        <seg>Crear &amp;tradución dos documentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -9813,10 +9893,26 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163432Z" creationid="Manuel" creationdate="20170911T163432Z">
+        <seg>Crear tradución do &amp;documento actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130312T124623Z">
         <seg>Crear entrada do glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163522Z" creationid="Manuel" creationdate="20170911T163522Z">
+        <seg>Crear proxecto MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15598,6 +15694,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Importing Wiki Page Failed</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163242Z" creationid="Manuel" creationdate="20170911T163242Z">
+        <seg>Erro na importación da páxina da wiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing and exporting translation memories</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130407T214828Z">
@@ -20717,10 +20821,26 @@ de erro.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163508Z" creationid="Manuel" creationdate="20170911T163508Z">
+        <seg>Abrir proxecto MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Project</seg>
       </tuv>
       <tuv lang="GL">
         <seg>Abrir un proxecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Recent Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163210Z" creationid="Manuel" creationdate="20170911T163210Z">
+        <seg>Abrir pro&amp;xecto recente</seg>
       </tuv>
     </tu>
     <tu>
@@ -25263,6 +25383,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130402T181754Z">
         <seg>As combinacións de teclas xerais como seleccionar todo (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), pegar (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), cortar (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copiar (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;), inserir coincidencia &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) e inserir cadea orixinal (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) actúan só en concordancia co segmento aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163600Z" creationid="Manuel" creationdate="20170911T163600Z">
+        <seg>T&amp;Ms</seg>
       </tuv>
     </tu>
     <tu>
