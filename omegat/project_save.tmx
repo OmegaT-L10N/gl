@@ -1864,9 +1864,9 @@ no escritorio e na área de inicio rápido.</seg>
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="GL" changeid="Manuel" changedate="20170911T150951Z" creationid="Manuel" creationdate="20170911T150951Z">
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T151238Z" creationid="Manuel" creationdate="20170911T150951Z">
         <seg>--config-file=&lt;path&gt;
-		Un ficheiro .properties do cal descargar XXX.</seg>
+		Un ficheiro .properties do cal descargar a configuración predeterminada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1923,6 +1923,18 @@ no escritorio e na área de inicio rápido.</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130404T191152Z">
         <seg>--pseudotranslatetmx=allsegments.tmx --pseudotranslatetype=[equal|empty]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T160905Z" creationid="Manuel" creationdate="20170911T160905Z">
+        <seg>--resource-bundle=&lt;path&gt;
+		Un ficheiro</seg>
       </tuv>
     </tu>
     <tu>
