@@ -1000,6 +1000,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162932Z" creationid="Manuel" creationdate="20170911T162932Z">
+        <seg>&amp;Gardar como...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Search</seg>
       </tuv>
       <tuv lang="GL">
@@ -10265,6 +10273,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130312T124523Z">
         <seg>Ctrl+Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T163157Z" creationid="Manuel" creationdate="20170911T163157Z">
+        <seg>Memoria usada neste momento pola MV: {0}MB; da cal, memoria libre: {1}MB; máxima dispoñíbel: {2}MB</seg>
       </tuv>
     </tu>
     <tu>
@@ -22989,6 +23005,14 @@ e nalgúns países tamén outras actividades.</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130403T133520Z">
         <seg>Executar &lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162951Z" creationid="Manuel" creationdate="20170911T162951Z">
+        <seg>Executándose en Java {0} ({1}-bit)</seg>
       </tuv>
     </tu>
     <tu>
