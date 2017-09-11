@@ -584,6 +584,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162708Z" creationid="Manuel" creationdate="20170911T162708Z">
+        <seg>&amp;Rematar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Fix All</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130425T153322Z">
@@ -944,6 +952,30 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162719Z" creationid="Manuel" creationdate="20170911T162719Z">
+        <seg>Elimina&amp;r filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162621Z" creationid="Manuel" creationdate="20170911T162621Z">
+        <seg>Substitui&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162651Z" creationid="Manuel" creationdate="20170911T162651Z">
+        <seg>Substitui&amp;r seguinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="GL">
@@ -1012,6 +1044,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="GL">
         <seg>Tama&amp;ño</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162638Z" creationid="Manuel" creationdate="20170911T162638Z">
+        <seg>&amp;Omitir</seg>
       </tuv>
     </tu>
     <tu>
@@ -21305,8 +21345,8 @@ programas libres e que, ademais, é consciente de que pode facer todo isto.</seg
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="GL" changeid="Manuel" changedate="20170911T162424Z" creationid="Manuel" creationdate="20170911T162424Z">
-        <seg>Coloque os ficheiros de partida</seg>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162601Z" creationid="Manuel" creationdate="20170911T162424Z">
+        <seg>Coloque os ficheiros de orixe</seg>
       </tuv>
     </tu>
     <tu>
@@ -22133,6 +22173,14 @@ e nalgúns países tamén outras actividades.</seg>
       </tuv>
       <tuv lang="GL" changeid="kike" changedate="20100920T194402Z">
         <seg>Eli&amp;minar filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162631Z" creationid="Manuel" creationdate="20170911T162631Z">
+        <seg>Su&amp;bstituir todo</seg>
       </tuv>
     </tu>
     <tu>
