@@ -1,3 +1,5 @@
 for details	para máis detalles
 Java .properties file	ficheiro .properties de Java
 omegat.project	omegat.project
+team project	proxecto de equipo
+command line	liña de comandos
