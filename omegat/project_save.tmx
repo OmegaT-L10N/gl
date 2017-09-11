@@ -1845,6 +1845,19 @@ no escritorio e na área de inicio rápido.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162134Z" creationid="Manuel" creationdate="20170911T162134Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+		--ITokenizerTarget=&lt;classname&gt;
+		Tokenizador na lingua de partida ou na de chegada (sobreescribe a configuración do proxecto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--alignDir={location of translated files}</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130404T191459Z">
@@ -1927,6 +1940,16 @@ no escritorio e na área de inicio rápido.</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130404T185620Z">
         <seg>--mode=console-translate|console-createpseudotranslatetmx|console-align</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162038Z" creationid="Manuel" creationdate="20170911T162038Z">
+        <seg>--no-team
+		Desactiva a funcionalidade de proxecto de equipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19049,6 +19072,18 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162323Z" creationid="Manuel" creationdate="20170911T162323Z">
+        <seg>Opcións do modo sen interface gráfica de usuario:
+		--quiet
+		Reduce o output ao stdout da liña de comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130408T150238Z">
@@ -23505,6 +23540,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130323T203932Z">
         <seg>Vexa o manual de OmegaT para as instrucións</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162200Z" creationid="Manuel" creationdate="20170911T162200Z">
+        <seg>Procure os valores válidos en OmegaT.jar/META-INF/MANIFEST.MF.</seg>
       </tuv>
     </tu>
     <tu>
