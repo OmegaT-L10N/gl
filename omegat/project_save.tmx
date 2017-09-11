@@ -1871,12 +1871,22 @@ no escritorio e na área de inicio rápido.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162000Z">
+        <seg>--disable-location-save
+		Non lembra o último directorio aberto polo selector de ficheiros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="GL" changeid="Manuel" changedate="20170911T161422Z" creationid="Manuel" creationdate="20170911T161422Z">
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T161759Z" creationid="Manuel" creationdate="20170911T161422Z">
         <seg>--disable-project-locking
-		Non tente fechar o ficheiro omegat.project do proxecto.</seg>
+		Non tenta fechar o ficheiro omegat.project do proxecto.</seg>
       </tuv>
     </tu>
     <tu>
