@@ -16140,6 +16140,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162345Z" creationid="Manuel" creationdate="20170911T162345Z">
+        <seg>Proxecto de equipo {0}-{1} inicializado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initializing</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130401T150104Z">
@@ -21289,6 +21297,16 @@ programas libres e que, ademais, é consciente de que pode facer todo isto.</seg
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130310T212627Z">
         <seg>Phillip Hall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place source files in ./source and supplemental
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T162424Z" creationid="Manuel" creationdate="20170911T162424Z">
+        <seg>Coloque os ficheiros de partida</seg>
       </tuv>
     </tu>
     <tu>
