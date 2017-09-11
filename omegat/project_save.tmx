@@ -1861,6 +1861,16 @@ no escritorio e na área de inicio rápido.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--config-file=&lt;path&gt;
+		A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T150951Z" creationid="Manuel" creationdate="20170911T150951Z">
+        <seg>--config-file=&lt;path&gt;
+		Un ficheiro .properties do cal descargar XXX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--mode=console-align</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130404T191256Z">
