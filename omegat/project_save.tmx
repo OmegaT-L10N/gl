@@ -1871,6 +1871,16 @@ no escritorio e na área de inicio rápido.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="Manuel" changedate="20170911T161422Z" creationid="Manuel" creationdate="20170911T161422Z">
+        <seg>--disable-project-locking
+		Non tente fechar o ficheiro omegat.project do proxecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--mode=console-align</seg>
       </tuv>
       <tuv lang="GL" changeid="erithrym" changedate="20130404T191256Z">
