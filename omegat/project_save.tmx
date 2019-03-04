@@ -7,6 +7,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190304T145123Z" creationid="souto" creationdate="20190304T145123Z">
+        <seg>Confirmar ficheiros de partida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
       <tuv lang="GL" changeid="souto" changedate="20190304T133242Z" creationid="souto" creationdate="20190304T133242Z">
