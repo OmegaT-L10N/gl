@@ -7,18 +7,10 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
-        <seg>Options:
-	None: Launch GUI
-	Project path only: Launch GUI and load specified project
-	team
-		Team project tool.</seg>
+        <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="GL" changeid="souto" changedate="20190304T132701Z" creationid="souto" creationdate="20190304T132701Z">
-        <seg>Options:
-	None: Launch GUI
-	Project path only: Launch GUI and load specified project
-	team
-		Team project tool.</seg>
+      <tuv lang="GL" changeid="souto" changedate="20190304T133242Z" creationid="souto" creationdate="20190304T133242Z">
+        <seg>Invoque 'team -h' para máis detalles.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
