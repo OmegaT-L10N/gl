@@ -5,3 +5,4 @@ team project	proxecto de equipo
 command line	liña de comandos
 failed	Erro
 file	ficheiro
+utility	ferramenta
