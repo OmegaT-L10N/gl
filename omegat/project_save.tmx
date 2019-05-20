@@ -4081,8 +4081,8 @@ do cartafol de configuración.</seg>
       <tuv lang="EN">
         <seg>Longman Dictionary of Contemporary English</seg>
       </tuv>
-      <tuv lang="GL" changeid="souto" changedate="20190520T204610Z" creationid="souto" creationdate="20190520T204610Z">
-        <seg>400: Bad Request</seg>
+      <tuv lang="GL" changeid="souto" changedate="20190520T204748Z" creationid="souto" creationdate="20190520T204610Z">
+        <seg>Longman Dictionary of Contemporary English</seg>
       </tuv>
     </tu>
     <tu>
@@ -6202,6 +6202,14 @@ para determinar a orixe do erro e ténteo de novo.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T204925Z" creationid="souto" creationdate="20190520T204925Z">
+        <seg>Algúns dos dicionarios non teñen restricións de uso e outros, como a selección de máis arriba, teñen licenza GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
@@ -6609,6 +6617,14 @@ cartafol actual serán empregado no sitio.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T204753Z" creationid="souto" creationdate="20190520T204753Z">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
@@ -6683,6 +6699,14 @@ instead.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>O cartafol actual serán empregado no sitio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T204945Z" creationid="souto" creationdate="20190520T204945Z">
+        <seg>O seguinte exemplo mostra o décimo dicionario Merriam Webster "en acción":</seg>
       </tuv>
     </tu>
     <tu>
@@ -7609,6 +7633,14 @@ na liña {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T204750Z" creationid="souto" creationdate="20190520T204750Z">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
@@ -7871,6 +7903,14 @@ crear o seu cartafol de configuración.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>atributos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>etc...</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T204757Z" creationid="souto" creationdate="20190520T204757Z">
+        <seg>etc.</seg>
       </tuv>
     </tu>
     <tu>
