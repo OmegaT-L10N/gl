@@ -3388,6 +3388,14 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T205535Z" creationid="souto" creationdate="20190520T205535Z">
+        <seg>Glosarios</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Glossary</seg>
@@ -3630,6 +3638,14 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T205527Z" creationid="souto" creationdate="20190520T205527Z">
+        <seg>Se é &lt;e0&gt;tar.bz&lt;/e0&gt;, quere dicir que esqueceu descomprimilo (con untar).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>If later access to the desired location is granted
@@ -3640,6 +3656,14 @@ their defaults as a result of the location change.</seg>
         <seg>Se máis tarde se ten acceso á localización desexada, esa localización 
 será empregada e todas as configuracións volverán aos seus 
 valores predeterminados como resultado do cambio de localización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If only one file is present, check its extension.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T205419Z" creationid="souto" creationdate="20190520T205419Z">
+        <seg>Se só exist un ficheiro, comprobe a súa extensión.</seg>
       </tuv>
     </tu>
     <tu>
