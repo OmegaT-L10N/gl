@@ -2345,6 +2345,15 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>change source: with extensions -&gt; with different extensions</note>
+      <tuv lang="EN">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T205401Z" creationid="souto" creationdate="20190520T205401Z">
+        <seg>Contén o cartafol tres ficheiros do mesmo nome, con diferentes extensións?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Done</seg>
