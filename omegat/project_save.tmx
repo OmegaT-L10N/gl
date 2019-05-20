@@ -4078,6 +4078,14 @@ do cartafol de configuración.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T204610Z" creationid="souto" creationdate="20190520T204610Z">
+        <seg>400: Bad Request</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Lucene (Apache License 2.0)</seg>
