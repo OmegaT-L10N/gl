@@ -1667,12 +1667,28 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T205317Z" creationid="souto" creationdate="20190520T205317Z">
+        <seg>Vaia a &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Proxecto&lt;/g5&gt; &lt;g6&gt;Propiedades&lt;/g6&gt; &lt;/m0&gt; para comprobalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Comprobar os padróns MessageFormat simples de &amp;java (por exemplo, {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T205130Z" creationid="souto" creationdate="20190520T205130Z">
+        <seg>Asegúrese de que os ficheiros de dicionario están no cartafol correcto (ou nun subcartafol a un nivel inferior).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4266,6 +4282,14 @@ do cartafol de configuración.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T205007Z" creationid="souto" creationdate="20190520T205007Z">
+        <seg>Dicionario Merriam Webster - uso</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Mine</seg>
@@ -5201,6 +5225,14 @@ para determinar a orixe do erro e ténteo de novo.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Produciuse un problema ao cargar o ficheiro do proxecto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T205012Z" creationid="souto" creationdate="20190520T205012Z">
+        <seg>Problemas con dicionarios</seg>
       </tuv>
     </tu>
     <tu>
