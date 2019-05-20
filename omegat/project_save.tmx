@@ -4753,6 +4753,14 @@ do cartafol de configuración.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T213043Z" creationid="souto" creationdate="20190520T213043Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
@@ -7559,6 +7567,14 @@ na liña {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T213124Z" creationid="souto" creationdate="20190520T213049Z">
+        <seg>Uso: java -jar OmegaT.jar [&lt;opcións&gt;] [&lt;ruta ao proxecto&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
@@ -8141,6 +8157,46 @@ crear o seu cartafol de configuración.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>{0} segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T213048Z" creationid="souto" creationdate="20190520T213048Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T213049Z" creationid="souto" creationdate="20190520T213049Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T213047Z" creationid="souto" creationdate="20190520T213047Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T213047Z" creationid="souto" creationdate="20190520T213047Z">
+        <seg>{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T213045Z" creationid="souto" creationdate="20190520T213045Z">
+        <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
     <tu>
