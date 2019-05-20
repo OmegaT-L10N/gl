@@ -6,3 +6,5 @@ command line	liña de comandos
 failed	Erro
 file	ficheiro
 utility	ferramenta
+glossary	glosario
+current segment	segmento actual
