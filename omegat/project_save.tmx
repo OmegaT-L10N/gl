@@ -6846,6 +6846,14 @@ de OmegaT non puido ser determinado correctamente.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T193610Z" creationid="souto" creationdate="20190520T193610Z">
+        <seg>Para instalar os ficheiros necesarios para o formato StarDict, proceda do seguinte xeito:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Too big HTML file!</seg>
