@@ -7459,11 +7459,12 @@ na liña {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>What is the project folder "Dictionary"?</note>
       <tuv lang="EN">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
-      <tuv lang="GL" changeid="souto" changedate="20190520T194106Z" creationid="souto" creationdate="20190520T194106Z">
-        <seg>Utilize a ferramenta untar (ou un equivalente, por exemplo &lt;f0&gt;winzip&lt;/f0&gt; ou &lt;f0&gt;winrar&lt;/f0&gt; en Windows) para extraer os seus contidos no cartafol do proxecto "Dicionario".</seg>
+      <tuv lang="GL" changeid="souto" changedate="20190520T194215Z" creationid="souto" creationdate="20190520T194106Z">
+        <seg>Utilize a ferramenta untar (ou un equivalente, por exemplo &lt;f0&gt;winzip&lt;/f0&gt; ou &lt;f0&gt;winrar&lt;/f0&gt; en Windows) para extraer os seus contidos no cartafol do proxecto "Dicionario".#####</seg>
       </tuv>
     </tu>
     <tu>
