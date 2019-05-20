@@ -3620,6 +3620,15 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>viewer =&gt; pane</note>
+      <tuv lang="EN">
+        <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T212429Z" creationid="souto" creationdate="20190520T212429Z">
+        <seg>Se proxecto de &lt;a0&gt;OmegaT&lt;/a0&gt;contén un ou máis glosarios, calquera termo do glosario que apareza no segmento actual mostrarse automaticamente na xanela do Glosario.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
