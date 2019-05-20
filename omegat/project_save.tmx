@@ -4927,6 +4927,22 @@ que contén o seu cartafol de usuario.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T213253Z" creationid="souto" creationdate="20190520T213127Z">
+        <seg>Opcións:
+	Ningunha: Launch GUI
+	Só a ruta ao proxecto: Arrancar a GUI e cargar o proxecto
+	de equipo especificado
+		Ferramenta de proxecto de equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Orphan segments</seg>
