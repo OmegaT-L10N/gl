@@ -7888,6 +7888,14 @@ na liña {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>You define its location and name in the project properties dialog.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T212504Z" creationid="souto" creationdate="20190520T212504Z">
+        <seg>Vostede define a súa localización e o seu nome no diálogo de propiedades do proxecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
