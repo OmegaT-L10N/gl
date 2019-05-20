@@ -6777,6 +6777,22 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T212550Z" creationid="souto" creationdate="20190520T212550Z">
+        <seg>A extensión debe ser &lt;f0&gt;.txt&lt;/f0&gt; ou &lt;f1&gt;.utf8&lt;/f1&gt; (se non, será engadida).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T212803Z" creationid="souto" creationdate="20190520T212803Z">
+        <seg>Non é preciso que o ficheiro exista ao configuralo. Se non existe, crearase ao engadir a primeira entrada ao glosario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="GL" changeid="souto" changedate="20190520T204945Z" creationid="souto" creationdate="20190520T204945Z">
@@ -6791,6 +6807,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>O código de idioma debería ter o formato xx-YY, xxx-YY, xx_YY ou xxx-YY, onde xx ou xxx é o código de idioma e YY é a rexión e código de país (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T212653Z" creationid="souto" creationdate="20190520T212616Z">
+        <seg>A localización do ficheiro debe estar dentro do cartafol &lt;f2&gt;/glossary&lt;/f2&gt;, mais pode ser nun cartafol a un nivel inferior (e.g., &lt;f3&gt;glossary/sub/glosario.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
