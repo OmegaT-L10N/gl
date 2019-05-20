@@ -5873,6 +5873,14 @@ para determinar a orixe do erro e ténteo de novo.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T193840Z" creationid="souto" creationdate="20190520T193840Z">
+        <seg>Busque a combinación lingüística pertinente, por exemplo, nas &lt;u0&gt;ligazóns incluídas na Wiki de OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Search for:</seg>
@@ -7849,6 +7857,14 @@ crear o seu cartafol de configuración.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>href (URL das &amp;ligazóns)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190520T193631Z" creationid="souto" creationdate="20190520T193631Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
     </tu>
     <tu>
