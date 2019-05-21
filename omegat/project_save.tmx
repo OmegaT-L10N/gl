@@ -1005,6 +1005,26 @@ Para engadir ficheiros ao proxecto, prema no botón Copiar ficheiros a cartafol 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>--config-file=&lt;path&gt;
+		A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190521T172356Z" creationid="souto" creationdate="20190521T172210Z">
+        <seg>--config-file=&lt;ruta&gt;
+		Un ficheiro .properties de Java a partir do cal cargar axustes predeterminados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190521T172151Z" creationid="souto" creationdate="20190521T172127Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Especifica outro modo diferente do predeterminado (GUI)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>&lt;project
 path&gt; ?</note>
       <tuv lang="EN">
@@ -1012,10 +1032,10 @@ path&gt; ?</note>
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="GL" changeid="souto" changedate="20190521T124507Z" creationid="souto" creationdate="20190521T124311Z">
+      <tuv lang="GL" changeid="souto" changedate="20190521T172110Z" creationid="souto" creationdate="20190521T124311Z">
         <seg>--remote-project
-		Descarga un ficheiro omegat.project do URL facilitado como &lt;project
-		path&gt; e carga o proxecto.</seg>
+		Descarga un ficheiro omegat.project do URL facilitado como &lt;ruta do
+		proxecto&gt; e carga o proxecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6086,6 +6106,14 @@ para determinar a orixe do erro e ténteo de novo.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Vexa o manual de OmegaT para as instrucións</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190521T172209Z" creationid="souto" creationdate="20190521T172209Z">
+        <seg>Vexa información máis detallada máis abaixo.</seg>
       </tuv>
     </tu>
     <tu>
