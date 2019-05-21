@@ -1005,6 +1005,8 @@ Para engadir ficheiros ao proxecto, prema no botón Copiar ficheiros a cartafol 
       </tuv>
     </tu>
     <tu>
+      <note>&lt;project
+path&gt; ?</note>
       <tuv lang="EN">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
