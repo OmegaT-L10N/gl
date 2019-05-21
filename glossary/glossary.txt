@@ -8,3 +8,5 @@ file	ficheiro
 utility	ferramenta
 glossary	glosario
 current segment	segmento actual
+default settings	axustes predeterminados
+settings	axustes
