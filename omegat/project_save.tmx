@@ -1005,6 +1005,16 @@ Para engadir ficheiros ao proxecto, prema no botón Copiar ficheiros a cartafol 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190521T124246Z" creationid="souto" creationdate="20190521T124246Z">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>1 conflict</seg>
