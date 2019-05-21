@@ -1006,12 +1006,24 @@ Para engadir ficheiros ao proxecto, prema no botón Copiar ficheiros a cartafol 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190521T124507Z" creationid="souto" creationdate="20190521T124311Z">
+        <seg>--remote-project
+		Descarga un ficheiro omegat.project do URL facilitado como &lt;project
+		path&gt; e carga o proxecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="GL" changeid="souto" changedate="20190521T124246Z" creationid="souto" creationdate="20190521T124246Z">
+      <tuv lang="GL" changeid="souto" changedate="20190521T124310Z" creationid="souto" creationdate="20190521T124246Z">
         <seg>-h, --help
-		Show usage information.</seg>
+		Mostra información sobre como se usa.</seg>
       </tuv>
     </tu>
     <tu>
