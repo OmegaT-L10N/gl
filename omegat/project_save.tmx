@@ -187,8 +187,8 @@
       <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
-      <tuv lang="GL" changeid="souto" changedate="20190524T184600Z" creationid="souto" creationdate="20190524T184600Z">
-        <seg>Documento de orixe &amp;actual</seg>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184959Z" creationid="souto" creationdate="20190524T184600Z">
+        <seg>Documento de orixe a&amp;ctual</seg>
       </tuv>
     </tu>
     <tu>
@@ -1666,8 +1666,8 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       <tuv lang="EN">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
-      <tuv lang="GL" changeid="souto" changedate="20190524T184607Z" creationid="souto" creationdate="20190524T184607Z">
-        <seg>Documento de destino ac&amp;tual</seg>
+      <tuv lang="GL" changeid="souto" changedate="20190524T185007Z" creationid="souto" creationdate="20190524T184607Z">
+        <seg>Documento de destino act&amp;ual</seg>
       </tuv>
     </tu>
     <tu>
@@ -2087,6 +2087,14 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Non se puideron gardar as credenciais nun ficheiro de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T185121Z" creationid="souto" creationdate="20190524T185121Z">
+        <seg>Crear un termo no &amp;glosario...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6308,12 +6316,11 @@ para determinar a orixe do erro e ténteo de novo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Search and Replace...</seg>
       </tuv>
-      <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
-        <seg>Buscar e substituír</seg>
+      <tuv lang="GL" changeid="souto" changedate="20190524T185025Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
+        <seg>Buscar e substituír...</seg>
       </tuv>
     </tu>
     <tu>
