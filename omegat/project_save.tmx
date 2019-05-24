@@ -527,6 +527,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T142543Z" creationid="souto" creationdate="20190524T142543Z">
+        <seg>&amp;Novo script</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&amp;New...</seg>
@@ -3153,6 +3161,22 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T143226Z" creationid="souto" creationdate="20190524T143226Z">
+        <seg>Ficheiro &gt; Fechar (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): fecha a xanela de busca (da mesma maneira que &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T143212Z" creationid="souto" creationdate="20190524T143212Z">
+        <seg>Ficheiro &gt; Buscar selección (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): muda o foco para o campo de busca e selecciona todo o seu contido.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>File Copy Failed</seg>
@@ -3171,6 +3195,14 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T142742Z" creationid="souto" creationdate="20190524T142742Z">
+        <seg>Filtros de ficheiro...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>File Format</seg>
@@ -3186,6 +3218,30 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Nome do ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T143120Z" creationid="souto" creationdate="20190524T143120Z">
+        <seg>As entradas do ficheiro inclúen nome, tipos de filtro de ficheiro, codificación e o número de segmentos que contén cada ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File format</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T142750Z" creationid="souto" creationdate="20190524T142750Z">
+        <seg>Formato de ficheiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T142823Z" creationid="souto" creationdate="20190524T142823Z">
+        <seg>Os formatos de ficheiro que non especifican a súa propia codificación usarán aquela definida para a extensión correspondente aos seus nomes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3225,6 +3281,14 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T143623Z" creationid="souto" creationdate="20190524T143623Z">
+        <seg>Ficheiro: % únicos traducidos (únicos restantes) / proxecto: % únicos traducidos (únicos restantes), número total de segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Filename</seg>
@@ -3240,6 +3304,38 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Variábeis do nome de ficheiro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T142919Z" creationid="souto" creationdate="20190524T142919Z">
+        <seg>Os ficheiros com formato (documentos ODF, documentos HTML, etc.) son segmentados nas etiquetas de nivel de bloque (ou sexa, parágrafos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T143245Z" creationid="souto" creationdate="20190524T143245Z">
+        <seg>Os ficheiros en formato de Microsoft Office XML poden ser traducidos directamente en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T143515Z" creationid="souto" creationdate="20190524T143350Z">
+        <seg>Para seren traducidos, os ficheiros en formatos antigos de MS Word, Excel e PowerPoint debe convertirse ao formato equivalente actual de Microsoft Office, ou tamén ao formato Open Office XML, o cal pódese facer en OpenOffice.org ou LibreOffice (tamén libre). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T143053Z" creationid="souto" creationdate="20190524T143053Z">
+        <seg>Os ficheiros dentro do cartafol &lt;f7&gt;source&lt;/f7&gt;, independentemente de se se traducen ou non, xéranse aquí, coa mesma xerarquia presente no subcartafol source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3734,6 +3830,14 @@ valores predeterminados como resultado do cambio de localización.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Se o filtro ten varias opcións, pode cambialas premendo en Opcións.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T142647Z" creationid="souto" creationdate="20190524T142647Z">
+        <seg>É possível engadir novos scripts neste cartafol, para que aparezan na lista de scripts dispoñíbeis da xanela &lt;g0&gt;Scripting&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
