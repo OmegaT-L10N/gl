@@ -23,6 +23,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184435Z" creationid="souto" creationdate="20190524T184435Z">
+        <seg>&amp;Acceder contidos do proxecto</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&amp;Add</seg>
@@ -191,6 +199,14 @@
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Pre&amp;determinados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184452Z" creationid="souto" creationdate="20190524T184452Z">
+        <seg>&amp;Dicionarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -759,6 +775,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184448Z" creationid="souto" creationdate="20190524T184448Z">
+        <seg>&amp;Raíz</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&amp;Run</seg>
@@ -862,6 +886,14 @@
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Orixe (&amp;segmento {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184518Z" creationid="souto" creationdate="20190524T184518Z">
+        <seg>Ficheiros de &amp;orixe</seg>
       </tuv>
     </tu>
     <tu>
@@ -2051,6 +2083,14 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Crear entrada do glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184422Z" creationid="souto" creationdate="20190524T184422Z">
+        <seg>Crear proxecto MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3908,6 +3948,14 @@ valores predeterminados como resultado do cambio de localización.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Importing Wiki Page Failed</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184406Z" creationid="souto" creationdate="20190524T184406Z">
+        <seg>Erro na importación da páxina wiki</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>In comments</seg>
@@ -5075,6 +5123,14 @@ que contén o seu cartafol de usuario.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>So s&amp;e o ficheiro (X)HTML ten unha declaración de codificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184414Z" creationid="souto" creationdate="20190524T184414Z">
+        <seg>Abrir proxecto MED...</seg>
       </tuv>
     </tu>
     <tu>
