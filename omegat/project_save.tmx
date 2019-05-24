@@ -4101,6 +4101,14 @@ valores predeterminados como resultado do cambio de localización.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Insert Unicode Control Character</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T185132Z" creationid="souto" creationdate="20190524T185132Z">
+        <seg>Inserir carácter de control Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Insert the &amp;best fuzzy match</seg>
@@ -4333,6 +4341,14 @@ do cartafol de configuración.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Modificada por última vez por {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T185207Z" creationid="souto" creationdate="20190524T185149Z">
+        <seg>Marca de esquerda para dereita (LRM U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6143,6 +6159,14 @@ para determinar a orixe do erro e ténteo de novo.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Resultado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T185215Z" creationid="souto" creationdate="20190524T185204Z">
+        <seg>Marca de dereita para esquerda (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
