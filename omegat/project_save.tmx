@@ -140,6 +140,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Not sure</note>
+      <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184343Z" creationid="souto" creationdate="20190524T184343Z">
+        <seg>&amp;Limpar menú</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&amp;Close</seg>
@@ -1142,6 +1151,14 @@ A configuración actual ten {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184012Z" creationid="souto" creationdate="20190524T184012Z">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
@@ -2097,6 +2114,14 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Creador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184010Z" creationid="souto" creationdate="20190524T184010Z">
+        <seg>Memoria usada pola VM: {0}MB; dos cales {1}MB libres; máximo dispoñibel: {2}MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5062,6 +5087,14 @@ que contén o seu cartafol de usuario.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Open Recent Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184023Z" creationid="souto" creationdate="20190524T184023Z">
+        <seg>Abrir pro&amp;xecto recente</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Open XML Filter Options</seg>
@@ -6009,6 +6042,14 @@ para determinar a orixe do erro e ténteo de novo.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Executar script na rañura #{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T183931Z" creationid="souto" creationdate="20190524T183931Z">
+        <seg>Executando en Java {0} ({1}-bit)</seg>
       </tuv>
     </tu>
     <tu>
