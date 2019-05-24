@@ -266,6 +266,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T183903Z" creationid="souto" creationdate="20190524T183903Z">
+        <seg>&amp;Concluír</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&amp;Fix All</seg>
@@ -756,6 +764,14 @@
       </tuv>
       <tuv lang="GL" changeid="souto" changedate="20190304T145201Z" creationid="souto" creationdate="20190304T145201Z">
         <seg>&amp;Gardar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T183915Z" creationid="souto" creationdate="20190524T183915Z">
+        <seg>&amp;Gardar como...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3420,12 +3436,11 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
-      <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
-        <seg>Para tódolos ficheiros:</seg>
+      <tuv lang="GL" changeid="souto" changedate="20190524T183809Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
+        <seg>Para todos os ficheiros:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3919,6 +3934,14 @@ valores predeterminados como resultado do cambio de localización.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Información</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T183852Z" creationid="souto" creationdate="20190524T183852Z">
+        <seg>Proxecto de equipo {0}-{1} inicializado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7255,6 +7278,14 @@ de OmegaT non puido ser determinado correctamente.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>Número total de segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T183820Z" creationid="souto" creationdate="20190524T183820Z">
+        <seg>Total:</seg>
       </tuv>
     </tu>
     <tu>
