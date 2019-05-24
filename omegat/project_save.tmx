@@ -184,6 +184,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Current Source Document</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184600Z" creationid="souto" creationdate="20190524T184600Z">
+        <seg>Documento de orixe &amp;actual</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&amp;Cycle</seg>
@@ -413,6 +421,14 @@
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>&amp;Inserir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184631Z" creationid="souto" creationdate="20190524T184631Z">
+        <seg>&amp;Inserir correspondencia ou selección</seg>
       </tuv>
     </tu>
     <tu>
@@ -924,6 +940,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184524Z" creationid="souto" creationdate="20190524T184524Z">
+        <seg>Ficheiros de &amp;destino</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&amp;Target Language Tokenizer:</seg>
@@ -1002,6 +1026,14 @@
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>&amp;Ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184617Z" creationid="souto" creationdate="20190524T184617Z">
+        <seg>Glosario &amp;editábel</seg>
       </tuv>
     </tu>
     <tu>
@@ -1628,6 +1660,14 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
       <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
         <seg>&amp;Listas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184607Z" creationid="souto" creationdate="20190524T184607Z">
+        <seg>Documento de destino ac&amp;tual</seg>
       </tuv>
     </tu>
     <tu>
@@ -3804,12 +3844,11 @@ que pode experimentar comportamentos inesperados mais correctos.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
-      <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
-        <seg>I&amp;nserir cadea orixinal</seg>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184711Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
+        <seg>I&amp;nserir texto orixe</seg>
       </tuv>
     </tu>
     <tu>
@@ -5795,6 +5834,14 @@ para determinar a orixe do erro e ténteo de novo.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184643Z" creationid="souto" creationdate="20190524T184643Z">
+        <seg>&amp;Substituír por correspondencia ou selección</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
@@ -5813,12 +5860,11 @@ para determinar a orixe do erro e ténteo de novo.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Re&amp;place with Source</seg>
       </tuv>
-      <tuv lang="GL" changeid="OmegaT Aligner" changedate="20190520T185311Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
-        <seg>Substituír &amp;pola cadea orixinal</seg>
+      <tuv lang="GL" changeid="souto" changedate="20190524T184722Z" creationid="OmegaT Aligner" creationdate="20190520T185311Z">
+        <seg>Substituír &amp;polo texto orixe</seg>
       </tuv>
     </tu>
     <tu>
